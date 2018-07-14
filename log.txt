@@ -1,0 +1,36 @@
+>>> LIRI-NODE-APP ACTIVITY LOG <<<
+
+LIRI...spotify-this-song Californication:
+Track name: Californication
+Preview track: https://p.scdn.co/mp3-preview/175ce440229d2fb5361756f3e68c9647b86a8eee?cid=4a7e415e8b3f4d45a62d7a027815aa2b
+Artist 1 of 1: Red Hot Chili Peppers
+Album name: Californication (Deluxe Version)
+
+
+LIRI...spotify-this-song :
+Artist 1 of 1: Ace of Base
+Track name: The Sign
+Preview track: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=4a7e415e8b3f4d45a62d7a027815aa2b
+Album name: The Sign (US Album) [Remastered]
+
+LIRI...movie-this :
+Movie Title: Mr. Nobody
+Year: 2009
+Internet Movie Database Rating: 7.9/10
+Rotten Tomatoes Rating: 66%
+Metacritic Rating: 63/100
+Production Countries: Belgium, Germany, Canada, France, USA, UK
+Language(s): English, Mohawk
+Plot Summary: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+LIRI...movie-this Twilight:
+Year: 2008
+Movie Title: Twilight
+Internet Movie Database Rating: 5.2/10
+Rotten Tomatoes Rating: 49%
+Production Countries: USA
+Metacritic Rating: 56/100
+Plot Summary: A teenage girl risks everything when she falls in love with a vampire.
+Language(s): English
+Actors: Kristen Stewart, Sarah Clarke, Matt Bushell, Billy Burke
